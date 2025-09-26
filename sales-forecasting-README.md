@@ -2,7 +2,7 @@
 
 > *"Predicting tomorrow's sales using today's data - A comprehensive time series analysis project"*
 
-**Created by: [Your Name]**  
+**Created by: Ayush Jaggi**  
 **Last Updated: September 2024**  
 **Project Status: Complete**
 
