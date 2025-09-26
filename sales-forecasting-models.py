@@ -3,7 +3,7 @@ Sales Forecasting Models
 ========================
 
 Comprehensive forecasting algorithms for business sales prediction
-Created by: [Your Name]
+Created by: Ayush Jaggi
 Date: September 2024
 """
 
